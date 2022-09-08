@@ -27,9 +27,49 @@ h2, h4{
 #hero-image{
     height:600px;
     width: 100%;
-    background: url("assets/images/shape1.jpg") no-repeat center center;
+    background: url('../images/shape1.jpg') no-repeat center center;
 
     animation-name: hero-zoom;
     animation-duration: 5s;
     animation-fill-mode: forwards;
+}
+
+#hero-outer{
+    height:600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
+
+#cover-text, #cover-text h2 {
+    color: #ffffff;
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: "Chakra Petch", sans-serif;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 200px;
+
+    padding-top: 40px;
+    padding-left: 10px;
+
+    background-color: rgba(117, 106, 105, 0.7);
+
+    bottom: 30px;
+    right: 150px;
+
+    position: absolute;
+
 }
