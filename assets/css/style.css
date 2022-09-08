@@ -1,15 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500;700&display=swap|Lato:300');
 
 /*--------------------------------------------Color*/
 
 
 /*--------------------------------------------Header*/
 
-h2, h4{
+#logo{
     font-family: "Chakra Petch", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: black;
+    margin-left:30px ;
 
 }
 
@@ -21,7 +22,26 @@ h2, h4{
     float:right;
 }
 
-/*--------------------------------------------Home*/
+#logo, #menu{
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #777777;
+}
+
+
+/*--------------------------------------------Hero Image*/
 
 
 #hero-image{
@@ -60,7 +80,8 @@ h2, h4{
     letter-spacing: 4px;
 
     width: 300px;
-    height: 200px;
+    height: 300px;
+    border-radius: 50%;
 
     padding-top: 40px;
     padding-left: 10px;
@@ -72,4 +93,27 @@ h2, h4{
 
     position: absolute;
 
+}
+
+/*--------------------------------------------About*/
+
+#about {
+    font-family: "Chakra Petch", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: black;
+    margin-left:30px ;
+}
+
+
+/*--------------------------------------------Latest*/
+
+#latest {
+    
+    font-family: "Chakra Petch", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: black;
+    float:right;
+    margin-right:30px ;
 }
