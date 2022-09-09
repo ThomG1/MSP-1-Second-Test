@@ -5,12 +5,18 @@
 
 /*--------------------------------------------Header*/
 
+header {
+    background-color: white;
+}
+
 #logo{
     font-family: "Chakra Petch", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: black;
     margin-left:30px ;
+    padding-top: 50px;
+    
 
 }
 
@@ -20,11 +26,10 @@
     list-style-type: none;
     letter-spacing: 4px;
     float:right;
-}
-
-#logo, #menu{
     line-height: 75px;
 }
+
+
 
 #menu li {
     float: right;
@@ -55,7 +60,7 @@
 }
 
 #hero-outer{
-    height:600px;
+    height:500px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -75,9 +80,10 @@
 }
 
 #cover-text {
-    font-size: 130%;
+    font-size: 140%;
     font-family: "Chakra Petch", sans-serif;
     letter-spacing: 4px;
+    text-align: center;
 
     width: 300px;
     height: 300px;
@@ -97,7 +103,7 @@
 
 /*--------------------------------------------About*/
 
-#about {
+#about h2{
     font-family: "Chakra Petch", sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
