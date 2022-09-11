@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500;700&display=swap|Lato:300');
 
-/*--------------------------------------------user agents/
 
 a,
 a:hover,
@@ -155,14 +154,15 @@ footer {
 
 .social-links {
     padding-bottom: 15px;
+    
 }
 
 .social-links li a i {
-    width: 32px;
-    height: 32px;
+    width: 42px;
+    height: 42px;
     padding: 12px 0;
     border-radius: 50%;
-    font-size: 13px;
+    font-size: 30px;
     line-height: 7px;
     text-align: center;
     color: #fafafa;
@@ -180,3 +180,10 @@ footer {
 #footer-details {
     padding: 20px;
 }
+
+.right-side {
+    float:right;
+    margin-left:90%;
+    margin-right:30px;
+}
+
