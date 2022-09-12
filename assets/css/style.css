@@ -30,9 +30,6 @@ header {
     margin-left:30px ;
     padding-top: 50px;
     text-decoration: none;
-
-    
-
 }
 
 #menu{
@@ -43,8 +40,6 @@ header {
     float:right;
     line-height: 75px;
 }
-
-
 
 #menu li {
     float: right;
@@ -60,9 +55,7 @@ header {
     border-bottom: 1px solid #000;
 }
 
-
 /*--------------------------------------------Hero Image*/
-
 
 #hero-image{
     height:600px;
@@ -127,7 +120,6 @@ header {
     margin-left:30px ;
 }
 
-
 /*--------------------------------------------Latest*/
 
 #latest {
@@ -136,7 +128,6 @@ header {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: black;
-    float:right;
     margin-right:30px ;
 }
 
@@ -148,9 +139,8 @@ footer {
     color: #fafafa;
     min-height: 120px;
     margin: 0;
+
 }
-
-
 
 .social-links {
     padding-bottom: 15px;
@@ -166,24 +156,26 @@ footer {
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    background: #8f8f8f;
+    background: black;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
+
 }
 
 .social-links li a i:hover {
-    background: #e84610;
+    background: #8f8f8f;
 }
 
 #footer-details {
     padding: 20px;
+    display:flex;
 }
 
-.right-side {
-    float:right;
-    margin-left:90%;
-    margin-right:30px;
+
+.col-6 {
+    text-align:center;
 }
+
 
