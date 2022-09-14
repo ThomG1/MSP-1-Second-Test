@@ -23,13 +23,16 @@ header {
 }
 
 #logo {
-    font-family: "Chakra Petch", sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: black;
+    background: url('../images/rrlogo5.jpg') no-repeat center center;
+    background-size:cover;
+    border-radius: 50%;
+    height:200px;
+    width:200px;
+
     margin-left: 30px;
     padding-top: 50px;
-    text-decoration: none;
+    padding-bottom: 0%;
+    
 }
 
 
@@ -41,6 +44,7 @@ header {
     letter-spacing: 4px;
     float: right;
     line-height: 75px;
+    color:black;
 }
 
 #menu li {
