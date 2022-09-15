@@ -15,6 +15,9 @@ a:focus {
 
 header {
     background-color: white;
+    height: 200px;
+    display:flex;
+    justify-content: space-between;
 
 }
 
@@ -44,11 +47,14 @@ header {
     letter-spacing: 4px;
     line-height: 75px;
     color:black;
+    align-self: center;
+    padding-top: 60px;
 }
 
 #menu li {
 
-    margin-right: 30px;
+    margin-right: 30px; 
+    
 }
 
 #menu a {
