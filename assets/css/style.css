@@ -120,22 +120,25 @@ header {
 
 /*--------------------------------------------About*/
 
-#about {
+.about-text {
     font-family: "Chakra Petch", sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: 2px;
     color: black;
     margin-left: 30px;
 }
 
 /*--------------------------------------------Latest*/
 
-
-
-.latest-scroll {
+.latest-text {
+    font-family: "Chakra Petch", sans-serif;
+    letter-spacing: 2px;
+    color: black;
+    margin-left: 30px;
     height: 200px;
     overflow: scroll;
 }
+
+
 
 
 /*--------------------------------------------Footer*/
@@ -181,8 +184,29 @@ footer {
 }
 
 
+.col-6 {
+    text-align: center;
+}
+
+#copyright {
+    text-align:center;
+}
+
+
+/*--------------------------------------------Demo page*/
+
+.demo-background-image {
+    background: url('../images/shape3.jpg') no-repeat center center;
+    background-size: cover;
+    height:100vh;
+
+}
+
+
 
 /*--------------------------------------------Demo Form*/
+
+
 
 .demo-heading {
     font-family: "Chakra Petch", sans-serif;
@@ -199,11 +223,15 @@ footer {
 }
 
 button[type="submit"] {
+    font-family: "Chakra Petch", sans-serif;
     margin-top: 15px;
     margin-bottom: 20px;
     color: #fafafa;
     background-color: black;
 }
+
+
+
 
 
 
