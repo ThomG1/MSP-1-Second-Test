@@ -66,10 +66,6 @@ header {
     border-bottom: 1px solid #000;
 }
 
-.flex-parent {
-    display:flex;
-    flex-direction: row-reverse;
-}
 
 /*--------------------------------------------Hero Image*/
 
@@ -159,7 +155,7 @@ footer {
     color: #fafafa;
     min-height: 120px;
     margin: 0;
-    padding-bottom: ;
+    
 
 }
 
@@ -186,7 +182,9 @@ footer {
 }
 
 .social-links li a i:hover {
-    background: #8f8f8f;
+    background: black;
+    
+    border-bottom: 3px solid #fff;
 }
 
 #footer-details {
@@ -216,7 +214,7 @@ footer {
 
 .demo-heading {
     font-family: "Chakra Petch", sans-serif;
-    font-weight:300px
+    font-weight:300px;
     margin-top: 25px;
     margin-bottom:20px;
 }
