@@ -23,41 +23,41 @@ The Replica Recordings is a record label celebrating new and underground alterna
 - __The landing page image__
 
   - The landing includes a image with text overlay to allow the user to see the actual name and description of the brand for the first time. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - This section uses a deliberately abstract yet eye catching image as a background for the text and description while also helping to create an initial atmosphere for the site.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+- __About Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The 'About' section will allow the user to quickly immerse themselves in the ethos of the label and encourage users to explore the other sections of the site.
+  - This user will quickly understand the value the label places on it's artists and the music it releases and be encouraged to do the same. This should result in the user to begin exploring the artists, or be inspired to get involved in the label themselves. 
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __Latest Section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section will allow the user to see exactly how the label operates on a day to day basis, it gives concise summaries of the latest releases, events and news.  
+  - The busy schedule of releases, events and news will be regularly updated, this will encourage the user to regularly return to the site and serves to demonstrate the impressive and involved work rate of the label and artists. 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer section is split in two halves. The left half includes links to the social media sites for Replica Recordins under a 'Find Us' heading. The right half includes links to streaming platforms so they user can engage directly with the content being released by the label and it's artists. All links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it directs them straight to the musical content, and social media links to follow and engage with on an ongoing basis. 
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Gallery__
+- __Artist Page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - This page will give the user pictures of the artists or their releases along with a text blurb explaining key information about each one. 
+  - This section is valuable to the user as they will be able to view the artists themselves, as will as specific information about them, and as a prospective artist be able to preview how they would be depicted on the site should they become part of the label.  
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- __Demo Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to become familiar with how the process of signing music works through Replica Recordings. The aim of this page is to demonstrate to prospective artists the clear, and simple process of how to submit music, and gives insight to general users and fans by including a summary of the approach in the 'If we like it, we'll sign it' section.
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
