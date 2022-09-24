@@ -25,6 +25,7 @@ a:focus {
 header {
     
     height: 200px;
+
     display:flex;
     justify-content: space-between;
 
@@ -215,6 +216,7 @@ footer {
     font-weight:300px;
     margin-top: 25px;
     margin-bottom:20px;
+    color:#ffffff;
 }
 
 .center-form {
