@@ -8,13 +8,22 @@ a:focus {
     text-decoration: none;
 }
 
+.indexbody {
+    background: url('../images/001-min.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.demosbody {
+    background: url('../images/shape3-min.jpg') no-repeat center center;
+    background-size: cover;
+}
 
 /*--------------------------------------------Color*/
 
 /*--------------------------------------------Header*/
 
 header {
-    background-color: white;
+    
     height: 200px;
     display:flex;
     justify-content: space-between;
@@ -26,7 +35,7 @@ header {
 }
 
 #logo {
-    background: url('../images/rrlogo9.jpg') no-repeat center center;
+    background: url('../images/rrlogo7.jpg') no-repeat center center;
     background-size:cover;
     border-radius: 50%;
     height:200px;
@@ -46,7 +55,7 @@ header {
     list-style-type: none;
     letter-spacing: 4px;
     line-height: 75px;
-    color:black;
+    color:white;
     align-self: center;
     padding-top: 60px;
 }
@@ -70,14 +79,11 @@ header {
 /*--------------------------------------------Hero Image*/
 
 #hero-image {
-    height: 600px;
+    height: 100%;
     width: 100%;
-    background: url('../images/shape1.jpg') no-repeat center center;
     background-size: cover;
 
-    animation-name: hero-zoom;
-    animation-duration: 5s;
-    animation-fill-mode: forwards;
+
 }
 
 #hero-outer {
@@ -87,15 +93,7 @@ header {
     position: relative;
 }
 
-@keyframes hero-zoom {
-    from {
-        transform: scale(1);
-    }
 
-    to {
-        transform: scale(1.1);
-    }
-}
 
 #cover-text,
 #cover-text h2 {
@@ -112,7 +110,7 @@ header {
     height: 300px;
     border-radius: 50%;
 
-    padding-top: 40px;
+    padding-top: 30px;
     padding-left: 10px;
 
     background-color: rgba(117, 106, 105, 0.7);
@@ -129,7 +127,7 @@ header {
 .about-text {
     font-family: "Chakra Petch", sans-serif;
     letter-spacing: 2px;
-    color: black;
+    color: white;
     margin-left: 30px;
 }
 
@@ -138,9 +136,9 @@ header {
 .latest-text {
     font-family: "Chakra Petch", sans-serif;
     letter-spacing: 2px;
-    color: black;
+    color: white;
     margin-left: 30px;
-    height: 200px;
+    height: 300px;
     overflow: scroll;
 }
 
@@ -151,7 +149,7 @@ header {
 
 
 footer {
-    background-color: black;
+    font-family: "Chakra Petch", sans-serif;
     color: #fafafa;
     min-height: 120px;
     margin: 0;
