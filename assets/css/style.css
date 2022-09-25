@@ -105,10 +105,11 @@ header {
 }
 
 #cover-text {
-    font-size: 140%;
+    font-size: 170%;
     font-family: "Chakra Petch", sans-serif;
     letter-spacing: 4px;
     text-align: center;
+    
 
   
 
@@ -117,8 +118,6 @@ header {
 
     background-color: rgba(117, 106, 105, 0.7);
 
-    bottom: 30px;
-    right: 150px;
 
     position: absolute;
 
