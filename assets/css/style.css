@@ -295,12 +295,19 @@ button[type="submit"] {
 
 /*Artists*/
 
-#artists-wrapper {
+.artists-wrapper {
     padding-top: 30px;
     width: 100%;
     font-size: 120%;
     color:#ffffff;
     font-family: "Chakra Petch", sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.carapace-left {
+    
 }
 
 
@@ -308,6 +315,9 @@ button[type="submit"] {
 .carapace-img {
     height: 300px;
     border-radius: 50%;
+}
+
+.text-left {
     display:flex;
-    flex-direction: column;
+    justify-content: flex-end;
 }
