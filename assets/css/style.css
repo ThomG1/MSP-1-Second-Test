@@ -16,6 +16,12 @@ a:focus {
     background: url('../images/shape5-min.jpg') no-repeat center center;
     background-size: cover;
 }
+
+.artistsbody {
+    background: url('../images/006-min.jpg') no-repeat center center;
+    background-size: cover;
+}
+
 /*Header*/
 
 header {
@@ -285,4 +291,23 @@ button[type="submit"] {
     margin-bottom: 20px;
     color: #fafafa;
     background-color: black;
+}
+
+/*Artists*/
+
+#artists-wrapper {
+    padding-top: 30px;
+    width: 100%;
+    font-size: 120%;
+    color:#ffffff;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+
+
+.carapace-img {
+    height: 300px;
+    border-radius: 50%;
+    display:flex;
+    flex-direction: column;
 }
