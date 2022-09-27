@@ -295,7 +295,7 @@ button[type="submit"] {
 
 /*Artists*/
 
-.artists-wrapper {
+.artists {
     padding-top: 30px;
     width: 100%;
     font-size: 120%;
@@ -305,14 +305,17 @@ button[type="submit"] {
     flex-direction: column;
     justify-content: space-evenly;
 }
-
-.carapace-left {
+.carapace {
+    display: flex;
+    flex-direction: row-reverse;
     
 }
+.img-left {
+    height: 300px;
+    border-radius: 50%;
+}
 
-
-
-.carapace-img {
+.img-right {
     height: 300px;
     border-radius: 50%;
 }
@@ -320,4 +323,9 @@ button[type="submit"] {
 .text-left {
     display:flex;
     justify-content: flex-end;
+}
+
+.trypt {
+    display: flex;
+    flex-direction: row;
 }
