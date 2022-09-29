@@ -10,14 +10,14 @@ The Replica Recordings is a record label celebrating new and underground alterna
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Artist page and Demo page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar includes links to the Home page, Artist page and Demo page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
 - __The Logo__
  
-  - Whilst part of the Navbar, it's important to highlight the logo on the left hand side. The logo contains the signature Replica Recordings image, flanked by two 'R' letters serving as both the quickest possible way for a user to identify the brand, and an eye-catching anchor at the top of the page that will return the user to the home page from any part of the site. 
+  - Whilst part of the Navbar, it's important to highlight the logo on the left hand side. The image contains the signature Replica Recordings image, serving as both the quickest possible way for a user to identify the brand, and an eye-catching anchor at the top of the page that will return the user to the home page from other parts of the site. 
   
 
 - __The landing page image__
@@ -38,7 +38,11 @@ The Replica Recordings is a record label celebrating new and underground alterna
 
   - This section will allow the user to see exactly how the label operates on a day to day basis, it gives concise summaries of the latest releases, events and news.  
   - The busy schedule of releases, events and news will be regularly updated, this will encourage the user to regularly return to the site and serves to demonstrate the impressive and involved work rate of the label and artists. 
+  
+  - __Releases Section__
 
+  - This section will provider the user with a sample of some of the artwork from the latest Replica Recordings releases. The aim is to give a visual representation of the primary content the label puts out. 
+ 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __The Footer__ 
@@ -60,14 +64,6 @@ The Replica Recordings is a record label celebrating new and underground alterna
   - This page will allow the user to become familiar with how the process of signing music works through Replica Recordings. The aim of this page is to demonstrate to prospective artists the clear, and simple process of how to submit music, and gives insight to general users and fans by including a summary of the approach in the 'If we like it, we'll sign it' section.
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-### Features Left to Implement
-
-- Another feature idea
 
 ## Testing 
 
@@ -91,15 +87,12 @@ The live link can be found here - https://code-institute-org.github.io/love-runn
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
 - The text for the Home page was taken from Wikipedia Article A
 - Partial sections of the code were taken from Code Institute's Love Running and Resume Projects.
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- The image slider in the index.html page was built using Avi Kohn's CSS Image Slider w/ next/prev btns & nav dots - https://codepen.io/AMKohn/details/DZYKEV
 
 ### Media
 
