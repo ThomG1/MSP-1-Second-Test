@@ -4,6 +4,11 @@ The Replica Recordings is a record label celebrating new and underground alterna
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
+The website consists of three pages: the Home page, the Artists page, and the Demo's page
+
+## Features 
+
+
 ## Features 
 
 ### Existing Features
