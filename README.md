@@ -6,7 +6,18 @@ The Replica Recordings is a record label celebrating new and underground alterna
 
 The website consists of three pages: the Home page, the Artists page, and the Demo's page
 
-## Features 
+## User Experience (UX)
+
+- __First Time Users__
+
+1.As a first time user, I want to easily understand the main purpose of the site and the record labels role as a promoter of existing artists, and a platform for emerging artists.
+2.As a first time user, I want to be able to get good visual representation of the musical content released without having heard the music, from the aesthetic of the website, artist profiles and release artworks.
+3.As a first time user, I want clear and distinguishable sections that are easy to find and move between. 
+4.As a first time user, I want to be able to leave the website to find out more via social media or access the music directly.
+
+- __Returning Users__
+
+
 
 
 ## Features 
